@@ -1,0 +1,14 @@
+*.class
+*.log
+
+/.idea/
+/out/
+
+.project
+.classpath
+.metadata
+.cache
+bin/
+
+target/
+project/build.properties
